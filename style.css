@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.sqr-container {
+    width: 900px;
+    height: 900px;
+    display: flex;
+}
+
+.div-row {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.block {
+    background-color: red;
+    height: 6.25%;
+}
+
+.block:hover {
+    background-color: darkred;
+}
