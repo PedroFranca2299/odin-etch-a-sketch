@@ -18,10 +18,10 @@ body {
 }
 
 .block {
-    background-color: red;
+    background-color: lightgray;
     height: 6.25%;
 }
 
-.block:hover {
+.new-color {
     background-color: darkred;
 }
